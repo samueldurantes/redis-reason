@@ -1,4 +1,4 @@
-## redis-ocaml
+## redis-reason
 A Redis client in Reason
 
 ## Dependencies
