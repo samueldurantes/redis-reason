@@ -21,4 +21,4 @@ $ esy dune exec src/http_server.exe
 ```
 
 ## License
-Lincesed under the [MIT](https://github.com/samueldurantes/redis-ocaml/blob/master/LICENSE)
+Lincesed under the [MIT](https://github.com/samueldurantes/redis-reason/blob/master/LICENSE)
