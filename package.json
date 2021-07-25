@@ -1,0 +1,16 @@
+{
+  "esy": {
+    "buildsInSource": "_build"
+  },
+  "dependencies": {
+    "ocaml": "4.12.x",
+    "@opam/reason": "*",
+    "@opam/dune": "*",
+    "@opam/opium": "*",
+    "@opam/redis": "*",
+    "@opam/redis-lwt": "*"
+  },
+  "devDependencies": {
+    "@opam/ocaml-lsp-server": "*"
+  }
+}
